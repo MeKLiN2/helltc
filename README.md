@@ -1,2 +1,2 @@
-# helltc
+# tc
 tinychat clone
